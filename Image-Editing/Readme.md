@@ -17,9 +17,4 @@ GenEdit is a cutting-edge **Generative AI Image Editing Toolkit** that lets you 
 
 ---
 
-## 🚀 Quick Start
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/GenEdit.git
-cd GenEdit
